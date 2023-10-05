@@ -1,0 +1,46 @@
+### Footprint positions - created on Tue 03 Oct 2023 13:23:18 ###
+### Printed by KiCad version 7.0.7
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                      Package                                                                                          PosX       PosY       Rot  Side
+C1        100nf                    C_0805_2012Metric                                                                             12.2500    14.2000  -90.0000  top
+C2        100nf                    C_0805_2012Metric                                                                             11.7500    53.2000  -90.0000  top
+C3        100nf                    C_0805_2012Metric                                                                             12.2500    27.2000  -90.0000  top
+C4        100nf                    C_0805_2012Metric                                                                             12.7500    40.2000  -90.0000  top
+C5        100nf                    C_0805_2012Metric                                                                             39.7500    38.2500  -90.0000  top
+C6        100nf                    C_0805_2012Metric                                                                             28.4900    15.7250   90.0000  top
+D1        DNI                      D_SOD-123                                                                                     25.7500    52.7500   90.0000  top
+D2        DNI                      D_SOD-123                                                                                     28.2500    52.7500   90.0000  top
+D3        DNI                      D_SOD-123                                                                                     30.7500    52.7500   90.0000  top
+D4        BZT52C6V8                D_SOD-123                                                                                     33.2500    52.7500   90.0000  top
+D5        BZT52C6V8                D_SOD-123                                                                                     35.7500    52.7500   90.0000  top
+D6        BZT52C6V8                D_SOD-123                                                                                     38.2500    52.7500   90.0000  top
+D7        BZT52C6V8                D_SOD-123                                                                                     36.7500    28.7500   90.0000  top
+D8        BZT52C6V8                D_SOD-123                                                                                     39.2500    28.7500   90.0000  top
+D9        BZT52C6V8                D_SOD-123                                                                                     41.7500    28.7500   90.0000  top
+J1        DA15_Plug_MountingHoles  DSUB-15_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm    36.8750    67.9497  180.0000  top
+R1        330R                     R_0805_2012Metric                                                                              9.7500    14.1625   90.0000  top
+R2        1K                       R_0805_2012Metric                                                                              7.2500    14.1625   90.0000  top
+R3        1K                       R_0805_2012Metric                                                                              6.7500    53.1625   90.0000  top
+R4        330R                     R_0805_2012Metric                                                                              9.2500    53.1625   90.0000  top
+R5        1K                       R_0805_2012Metric                                                                              7.2500    27.1625   90.0000  top
+R6        330R                     R_0805_2012Metric                                                                              9.7500    27.1625   90.0000  top
+R7        1K                       R_0805_2012Metric                                                                              7.7500    40.1625   90.0000  top
+R8        330R                     R_0805_2012Metric                                                                             10.2500    40.1625   90.0000  top
+R9        22R                      R_0805_2012Metric                                                                             25.7500    46.6625   90.0000  top
+R10       22R                      R_0805_2012Metric                                                                             28.2500    46.6625   90.0000  top
+R11       22R                      R_0805_2012Metric                                                                             30.7500    46.6625   90.0000  top
+R12       22R                      R_0805_2012Metric                                                                             33.2500    46.6625   90.0000  top
+R13       22R                      R_0805_2012Metric                                                                             35.7500    46.6625   90.0000  top
+R14       22R                      R_0805_2012Metric                                                                             38.2500    46.6625   90.0000  top
+R15       22R                      R_0805_2012Metric                                                                             36.7500    22.6625   90.0000  top
+R16       22R                      R_0805_2012Metric                                                                             39.2500    22.6625   90.0000  top
+R17       22R                      R_0805_2012Metric                                                                             41.7500    22.6625   90.0000  top
+U1        firebeetle_esp32         firebeetle_esp32                                                                              21.0500    56.3526    0.0000  top
+U2        EL817                    DIP-4_W7.62mm                                                                                 15.0500    18.2500  180.0000  top
+U3        EL817                    DIP-4_W7.62mm                                                                                 14.5500    57.2100  180.0000  top
+U4        EL817                    DIP-4_W7.62mm                                                                                 14.7500    31.2100  180.0000  top
+U5        EL817                    DIP-4_W7.62mm                                                                                 15.0500    44.2500  180.0000  top
+U6        74LS07                   SOIC-14_3.9x8.7mm_P1.27mm                                                                     30.9400    36.7250   90.0000  top
+U7        74LS07                   SOIC-14_3.9x8.7mm_P1.27mm                                                                     35.9400    13.2250  -90.0000  top
+## End
